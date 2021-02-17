@@ -1,0 +1,223 @@
+figure_list:
+
+  - id: "Intro_splash"
+    src: figures/Intro_splash.png
+    caption: ""
+    credit: ""
+
+  - id: "cover"
+    src: figures/cover.png
+    caption: ""
+    credit: ""
+
+  - id: "HKUP_logo"
+    src: figures/HKUP_logo.png
+    caption: ""
+    credit: ""
+
+  - id: "JCC_logo"
+    src: figures/JCC_logo.png
+    caption: ""
+    credit: ""
+
+  - id: "TK_logo"
+    src: figures/TK_logo.png
+    caption: ""
+    credit: ""
+
+  - id: "1_1"
+    src: figures/1_1.png
+    caption: "An engraving showing the north shore of Hong Kong Island, 1857. The Magistracy and the Gaol within a surrounding wall are highlighted."
+    credit: ""
+
+  - id: "1_2"
+    src: figures/1_2.png
+    caption: "Aerial view from 1969-70 shows the Central Police Station, Central Magistracy and Victoria Prison in the midst of urban Hong Kong."
+
+  - id: "1_3"
+    src: figures/1_3.png
+    caption: "Site overview of Taikwun"
+
+  - id: "2_splash"
+    src: figures/2_splash.png
+    caption:
+
+  - id: "2_2"
+    src: figures/2_2.png
+    caption: "European and Indian police standing in front of Barrack Block, 1890s."
+
+  - id: "2_3"
+    src: figures/2_3.png
+    caption: "East and north elevations of Headquarters Block, with Hollywood Road below."
+
+  - id: "2_4"
+    src: figures/2_4.png
+    caption: "Central Police Station Barrack Block: Report and Estimate signed by Charles St George Cleverly, 1862."
+
+  - id: "2_5"
+    src: figures/2_5.png
+    caption: "Well-worn flight of stairs in Headquarters Block; the banisters feature the circle-and-cross motif used extensively throughout the building."
+
+  - id: "3_splash"
+    src: figures/3_splash.png
+    credit: ""
+
+  - id: "3_1"
+    src: figures/3_1.png
+    credit: "Chinese and Indian policeman in front of Barrack Block, c. 1890."
+
+  - id: "3_2"
+    src: figures/3_2.png
+    credit: "Watercolour painting marking the visit of China's Imperial Commissioner Qiying to Hong Kong in November 1845. William Caine is shown in a red uniform, standing second from left. Qiying is seated in the centre, with the Governor, Sir John Davis, on his left. The man standing in front is the interpreter, Karl Gutzlaff."
+
+  - id: "3_3"
+    src: figures/3_3.png
+    caption: "Henry May, Captain Superintendent of Police, 1899."
+
+  - id: "Cover"
+    src: figures/Cover.png
+    credit: ""
+
+  - id: "4_splash"
+    src: figures/4_splash.png
+    credit: ""
+
+  - id: "4_1"
+    src: figures/4_1.png
+    caption: "19th-century view of the upper floor of the old Magistracy, highlighted in green."
+
+  - id: "4_2"
+    src: figures/4_2.png
+    credit: "Plan of the ground floor, produced for the additions and alterations to the Magistracy in 1857."
+
+  - id: "4_3"
+    src: figures/4_3.png
+    credit: "The Central Magistracy, completed in 1915. This painting by Stuart Allen hangs in Hong Kong's Court of Final Appeal."
+
+  - id: "5_splash"
+    src: figures/5_splash.png
+    caption: ""
+
+  - id: "5_1"
+    src: figures/5_1.png
+    caption: "Lithograph by Lieutenant Colonel H.D. Collison-Morley, c. 1909. A European police officer escorts an offender, holding on to his queue. Two offenders are fettered in leg stocks beneath the tree."
+
+  - id: "5_2"
+    src: figures/5_2.png
+    caption: "Sikh policmen guarding two offenders in leg stocks, 1900s."
+
+  - id: "5_3"
+    src: figures/5_3.png
+    caption: "Cat-o'-nine-tails: a whip with nine lengths of knotted rope or nine leather cords."
+
+  - id: "5.8"
+    src: figures/5.8.png
+    caption: "Detail of fine chain lines on paper"
+
+  - id: "5.9"
+    src: figures/5.9.png
+    caption: "Interleaving paper with the words Long Tai Yu Factory Fan Paper"
+
+  - id: "5.10"
+    src: figures/5.10.png
+    caption: "Title label for *Commentary on the Book of Documents*"
+
+  - id: "5.10_2"
+    src: figures/5.10_2.png
+    caption: "Title label for *Commentary on the Book of Documents* with intaglio seals of Lu Xuan’s studio Plum Valley (Mei Gu)"
+
+  - id: "5.11"
+    src: figures/5.11.png
+    caption: "Shen Cai's seal appears at the bottom left corner"
+
+  - id: "LX_1"
+    src: figures/LX_1.png
+    caption: Lu Xuan's *Meanings in the Book of Documents* handwritten by Shen Cai
+    credit: ""
+
+  - id: "D1"
+    src: figures/D1.png
+    caption: ""
+    credit: ""
+  - id: "D2"
+    src: figures/D2.png
+    caption: ""
+    credit: ""
+  - id: "RSL_1"
+    src: figures/RSL_1.png
+    caption: "Third draft of *Meanings in the Book of Documents*, handwritten by *The Silkworm Cultivating Concubine of Xu Mountain*, Shen Cai"
+    credit: ""
+  - id: "RSL_2"
+    src: figures/RSL_2.png
+    caption: "Five-character lü format poem written by *The Hermit of Qingyao Mountain*."
+    credit: ""
+  - id: "RSL_3"
+    src: figures/RSL_3.png
+    caption: "Two *ci* poems by Shen Cai"
+    credit: ""
+  - id: "RSL_4"
+    src: figures/RSL_4.png
+    caption: "A few lines of *jue* poetry written by Shen Cai after finishing proofreading"
+    credit: ""
+  - id: "RSL_5"
+    src: figures/RSL_5.png
+    caption: "Poem after the twenty-third chapter “Charge to Yue [of Fuxian] part 3”"
+    credit: ""
+  - id: "RSL_6"
+    src: figures/RSL_6.png
+    caption: "Poem after the seventh volume, thirty-third chapter"
+    credit: ""
+  - id: "RSL_7"
+    src: figures/RSL_7.png
+    caption: "Poem after the ninth volume, forty-third chapter 'Against Luxurious Ease'"
+    credit: ""
+  - id: "P1"
+    src: figures/P1.png
+    caption: ""
+    credit: ""
+  - id: "P2"
+    src: figures/P2.png
+    caption: ""
+    credit: ""
+  - id: "P3"
+    src: figures/P3.png
+    caption: ""
+    credit: ""
+  - id: "P4"
+    src: figures/P4.png
+    caption: ""
+    credit: ""
+  - id: "P6"
+    src: figures/P6.png
+    caption: ""
+    credit: ""
+  - id: "P7"
+    src: figures/P7.png
+    caption: ""
+    credit: ""
+  - id: "Liu"
+    src: figures/Liu.png
+    caption: "劉承幹 Liu Chenggan"
+    credit: ""
+  - id: "Seal_1"
+    src: figures/Seal_1.png
+    caption: ""
+    credit: ""
+  - id: "Seal_2"
+    src: figures/Seal_2.png
+    caption: "嘉業堂藏書印<br>Seals of the Jiaye Library"
+    credit: ""
+  - id: "Seal_3"
+    src: figures/Seal_3.png
+    caption: ""
+    credit: ""
+
+  - id: "Zhejiang_library"
+    src: figures/Zhejiang_library.png
+    caption: "原件藏浙江圖書館 Letter from Liu Chenggan to the Zhejiang Library, dated 19 November 1951<br> (original in the Zhejiang Library)"
+    credit: ""
+
+  - id: "Jiayetang_gates"
+    src: figures/Jiayetang_gates.png
+    caption: "Entrance gates to the Jiayetang Library"
+    credit: ""
