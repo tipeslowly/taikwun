@@ -70,10 +70,10 @@ Henry May had learned Mandarin in Peking—of little use in Hong Kong at the tim
 
 
 #### Notes
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:Report on the Police Force for 1893, *Hongkong Government Gazette*, 20 February 1875.
+[^2]:Quoted in Printed Report of Police Enquiry Commission, 20 July 1872, CO 129/158, 293.
+[^3]:*Hongkong Daily Press*, 12 July 1871.
+[^4]:Snow, *The Fall of Hong Kong* (2003), 14.
+[^5]:Report of the Captain Superintendent of Police for 1870, *Hongkong Government Gazette*, 24 June 1871, 282.
+[^6]:Report of the Captain Superintendent of Police for 1894, *Hongkong Government Gazette*, 16 March 1895, 197.
+[^7]:Report on the Police School for 1899, *Hongkong Government Gazette*, 1900, 341.

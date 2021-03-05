@@ -15,6 +15,9 @@ The experience of prison varied from person to person depending on his or her ba
 
 Unfolding over a month during preliminary hearings in the Magistracy and the full trial in the Supreme Court, the stories that emerged from a multitude of witnesses transfixed the public in Manila, Chefoo (Yantai), Shanghai and Hong Kong. At the beginning of the trial, there was such a rush for seats by sensation-hunters and the merely curious that all Chinese at the back of the court had to be turned out to make room for Europeans and foreigners. Victoria Gaol, where the accused was held during the period from his being remanded to the custody of the police until his execution, basked in the reflected notoriety of this case.
 
+{{< q-figure id="10_1" >}}
+
+
 On Saturday 3 August a man and a woman travelling under the name of ‘Mr and Mrs W.H. Jones’ arrived from Manila and checked into the Hongkong Hotel. Among their luggage was a large Saratoga trunk measuring roughly 2 feet 6 inches long, 20 inches wide and about 2 feet deep. They were a handsome couple: he was in his late 20s, of above average height, with light brown hair and blue eyes, and several of his teeth were ‘stopped in gold’,74 a feature that later helped various witnesses to identify him; she was a statuesque blonde, about 5 feet 8 inches tall, with rather angular arms and long white pointed fingers, on which sparkled a number of rings. It later transpired that the woman, having skipped Manila in a hurry with some insurance money that belonged to another, had brought all her jewellery with her.
 
 After dining together, Adsetts and Dayton proceeded to spend the evening with Dayton’s old friends in two ‘gay houses’[^3] at 52 Hollywood Road and 18 Hollywood Road, where they drank a great deal of champagne and wine. They left the second brothel between two and three o’clock in the morning. Nobody at the hotel saw them return. Adsetts later maintained that he had been separated from Dayton, and though too drunk to remember much he did recall spending the rest of the night with another prostitute in an unknown Japanese brothel in Ship Street in Wan Chai. He returned to the Hongkong Hotel early the next morning to discover that Dayton was not sleeping off her night of heavy drinking but dead. He claimed that his actions afterwards were prompted by panic. Events then took on a surreal quality.
@@ -30,6 +33,8 @@ A witness from one of the brothels in Hollywood Road later identified the dead w
 
 In the early 20th century Hong Kong was the transhipment point for overseas Chinese deported to China from British, French and Dutch colonies in Asia and from places as far afield as Britain, Mauritius and the United States. Among them
 were vagrants, superannuated labourers, and banished political dissidents. The Hong Kong Police handled these deportees, along with the thousands deported from within Hong Kong. Many spent a night or two in Victoria Gaol.
+
+{{< q-figure id="10_2" >}}
 
 In 1931 more than 80 political deportees from Rangoon were transferred through Hong Kong. One of them was the Chinese writer, Ai Wu (1904–1992). Born Tang Daogeng in Sichuan, he left home in 1925 and led the life of a drifter for several years, taking odd jobs to fund his travels. He walked from Chengdu to Kunming, and crossed from Yunnan into British Burma, where he eventually found work as assistant editor on a newspaper. He had mingled with people living on the edge of destitution during his life on the road. Now, galvanised by what he described as the ‘English imperialists’ shady schemes of deception and oppression’ over the poor and weak, he voiced his support of a Burmese peasants’ revolt.
 For this he was packed off on a ship for deportation back to China via Hong Kong.

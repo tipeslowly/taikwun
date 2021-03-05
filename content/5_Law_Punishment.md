@@ -21,7 +21,9 @@ Some early Chinese offenders were exposed in public places in the cangue or ‘C
 
 **Flogging**
 
-In the early 1840s the Magistracy under William Caine routinely imposed flogging on the buttocks with a rattan cane for all forms of crime committed by Chinese offenders, in addition to short prison sentences. Serious cases of piracy, robbery or burglary had to be sent to the Governor or his deputy for sentencing. In a typical case in January 1844 Governor Pottinger sentenced nine pirates each to five years’ imprisonment with hard labour, with the further direction that each of the prisoners shall receive 100 strokes during each year of their confinement within the 1st and 6th months on such day as the Chief Magistrate may appoint; that they shall stand in the Pillory (Cangue) for an hour on each occasion before they are flogged with labels on their breasts descriptive of their crime and sentence; that at the expiration of the full period of imprisonment they shall be turned off the island and warned if they are ever again found in the Colony they will be confined for life.[^1]
+In the early 1840s the Magistracy under William Caine routinely imposed flogging on the buttocks with a rattan cane for all forms of crime committed by Chinese offenders, in addition to short prison sentences. Serious cases of piracy, robbery or burglary had to be sent to the Governor or his deputy for sentencing. In a typical case in January 1844 Governor Pottinger sentenced nine pirates each to five years’ imprisonment with hard labour, with the further direction that
+
+>each of the prisoners shall receive 100 strokes during each year of their confinement within the 1st and 6th months on such day as the Chief Magistrate may appoint; that they shall stand in the Pillory (Cangue) for an hour on each occasion before they are flogged with labels on their breasts descriptive of their crime and sentence; that at the expiration of the full period of imprisonment they shall be turned off the island and warned if they are ever again found in the Colony they will be confined for life.[^1]
 
 As the colony’s criminal justice system became more regulated, limits were imposed by legislation both on the number of strokes in each case and at each flogging (usually 36 or 50) and to the offences to which it could be applied. Practices varied over the years. In the mid-19th century offences punishable by flogging included larceny, assault, stealing from the person, being a rogue and vagabond, indecent exposure, obeying the call of nature in a public place, begging, malicious injury to property, gambling, riotous assembly, belonging to the Triad Society, returning from deportation, and other miscellaneous offences.
 
@@ -35,7 +37,7 @@ While magistrates imposed canings on the buttocks, the Supreme Court could order
 
 The windows and balconies of the houses surrounding the whipping post were packed with spectators, male and female, who ‘seemed to consider the whole thing as quite an entertainment’. Immediately in front of the ‘post of dishonour’ a crowd of ‘high government officials, justices, barristers, naval and military officers, bankers, merchants &c., &c.’ had gathered to witness the ‘writhing and howling under the awful torture of the lash, and to count the “thuds”’. The Colonial Surgeon was in attendance to prevent the infliction of greater punishment than the men could bear, and two or three were released before they had received the assigned number of lashes. The floggings were administered by ‘four powerful fellows, who exhibited quite sufficient dexterity in the use of the whip as to justify their appointment to the position which they hold’.[^4]
 
-Flogging was applied to males only. From the 1860s on, no formal distinction was made according to race. In practice, however, before World War II magistrates and judges did not sentence Europeans to flogging. The only exceptions appear to have been in 1866, when in the Supreme Court the judge Henry Ball imposed sentences of flogging on an American sailor convicted of wounding, and a Polish ex-policeman convicted of robbery from a Chinese woman. The sentences provoked outrage in the colonial community and were not carried out.[^5] Equal justice for all men was healthy enough at home, a petition on behalf of one of the men argued, but the Chinese had no conception of equal justice, and the public flogging of a European in the presence of the Chinese would bring disgrace to the whole European community.[^6]
+Flogging was applied to males only. From the 1860s on, no formal distinction was made according to race. In practice, however, before World War II magistrates and judges did not sentence Europeans to flogging. The only exceptions appear to have been in 1866, when in the Supreme Court the judge Henry Ball imposed sentences of flogging on an American sailor convicted of wounding, and a Polish ex-policeman convicted of robbery from a Chinese woman. The sentences provoked outrage in the colonial community and were not carried out. Equal justice for all men was healthy enough at home, a petition on behalf of one of the men argued, but the Chinese had no conception of equal justice, and the public flogging of a European in the presence of the Chinese would bring disgrace to the whole European community.[^5]
 
 Besides its use as a judicial punishment, flogging was one of several disciplinary measures available within Victoria Gaol for offences under the prison regulations such as mutiny, assault, indecent or disorderly behaviour, idleness and wilful damage. Floggings took place with far greater frequency than in prisons in England: in the five years up to July 1876, for example, over a thousand corporal punishments were imposed on prisoners in Hong Kong, compared with about 5,000 in England, which had a population 170 times the size of Hong Kong. The widespread imposition of flogging in prison and by the courts shocked the liberal-minded Governor, Sir John Pope Hennessy, when he arrived in Hong Kong in 1877. ‘As far as I am aware,’ he said, ‘there is no code of laws in any part of Her Majesty’s Empire in which the power of flogging is so extensively given to Magistrates and Judges as in Hong Kong.’ He added,
 
@@ -44,15 +46,14 @@ and the public exhibition of an English turnkey flogging with a vigorous arm the
 speedily bleeding body of a Chinaman, tied to the whipping post, is not calculated
 to do much good to the groups of neglected little children who flock to see
 it, and to the great majority of whom this spectacle is the only lesson they receive
-from the civilized Government under which they have been born.[^7]
+from the civilized Government under which they have been born.[^6]
 
 Hennessy abolished all flogging, except for offences for which it was available in England—for example, robbery with violence, and attempts to choke, suffocate or strangle (imposed only by the Supreme Court), and larceny by a male offender who appeared to be under the age of 16. Nevertheless, after his departure, flogging gradually crept back into the statute book for other offences, and whipping with the cat-o’-nine-tails, to which he was strongly averse, was not ended until 1954.
 
 #### Notes
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:*Hongkong Register*, 6 February 1844.
+[^2]:*Hongkong Daily Press*, 8 & 9 January 1867. A 'fox' is a nautical term for a strand of used for tying things.
+[^3]:May to Alexander, 20 August 1862, CO 129/87, 136.
+[^4]:*Hongkong Daily Press*, 22, 24 & 29, November 1865.
+[^5]:*Hongkong Daily Press*, 4 April 1866.
+[^6]:Hennessey to Carnarvon, 6 July 1877, *British Parliamentary Papers: China 25*, 461-62.

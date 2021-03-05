@@ -10,8 +10,8 @@ figure_list:
     caption: ""
     credit: ""
 
-  - id: "HKUP_logo"
-    src: figures/HKUP_logo.png
+  - id: "HKUP_logo_2014"
+    src: figures/HKUP_logo_2014.png
     caption: ""
     credit: ""
 
@@ -23,6 +23,11 @@ figure_list:
   - id: "TK_logo"
     src: figures/TK_logo.png
     caption: ""
+    credit: ""
+
+  - id: "Parade_ground"
+    src: figures/Parade_ground.png
+    caption: "European and Indian police on parade, 1890s. Barrack Block is behind. The 'Charge Room' is indicated on the wall next to the entrance at the far left."
     credit: ""
 
   - id: "1_1"
@@ -126,98 +131,50 @@ figure_list:
     src: figures/5.10_2.png
     caption: "Title label for *Commentary on the Book of Documents* with intaglio seals of Lu Xuan’s studio Plum Valley (Mei Gu)"
 
-  - id: "5.11"
-    src: figures/5.11.png
-    caption: "Shen Cai's seal appears at the bottom left corner"
+  - id: "6_1"
+    src: figures/6_1.png
+    caption: "Magistrate William Caine on the occasion of the visit of the Imperial Commissioner Qiying to Hong Kong, 1845."
 
-  - id: "LX_1"
-    src: figures/LX_1.png
-    caption: Lu Xuan's *Meanings in the Book of Documents* handwritten by Shen Cai
-    credit: ""
+  - id: "6_2"
+    src: figures/6_2.png
+    caption: "Magistrate Ng Choy, ca. 1880."
 
-  - id: "D1"
-    src: figures/D1.png
-    caption: ""
-    credit: ""
-  - id: "D2"
-    src: figures/D2.png
-    caption: ""
-    credit: ""
-  - id: "RSL_1"
-    src: figures/RSL_1.png
-    caption: "Third draft of *Meanings in the Book of Documents*, handwritten by *The Silkworm Cultivating Concubine of Xu Mountain*, Shen Cai"
-    credit: ""
-  - id: "RSL_2"
-    src: figures/RSL_2.png
-    caption: "Five-character lü format poem written by *The Hermit of Qingyao Mountain*."
-    credit: ""
-  - id: "RSL_3"
-    src: figures/RSL_3.png
-    caption: "Two *ci* poems by Shen Cai"
-    credit: ""
-  - id: "RSL_4"
-    src: figures/RSL_4.png
-    caption: "A few lines of *jue* poetry written by Shen Cai after finishing proofreading"
-    credit: ""
-  - id: "RSL_5"
-    src: figures/RSL_5.png
-    caption: "Poem after the twenty-third chapter “Charge to Yue [of Fuxian] part 3”"
-    credit: ""
-  - id: "RSL_6"
-    src: figures/RSL_6.png
-    caption: "Poem after the seventh volume, thirty-third chapter"
-    credit: ""
-  - id: "RSL_7"
-    src: figures/RSL_7.png
-    caption: "Poem after the ninth volume, forty-third chapter 'Against Luxurious Ease'"
-    credit: ""
-  - id: "P1"
-    src: figures/P1.png
-    caption: ""
-    credit: ""
-  - id: "P2"
-    src: figures/P2.png
-    caption: ""
-    credit: ""
-  - id: "P3"
-    src: figures/P3.png
-    caption: ""
-    credit: ""
-  - id: "P4"
-    src: figures/P4.png
-    caption: ""
-    credit: ""
-  - id: "P6"
-    src: figures/P6.png
-    caption: ""
-    credit: ""
-  - id: "P7"
-    src: figures/P7.png
-    caption: ""
-    credit: ""
-  - id: "Liu"
-    src: figures/Liu.png
-    caption: "劉承幹 Liu Chenggan"
-    credit: ""
-  - id: "Seal_1"
-    src: figures/Seal_1.png
-    caption: ""
-    credit: ""
-  - id: "Seal_2"
-    src: figures/Seal_2.png
-    caption: "嘉業堂藏書印<br>Seals of the Jiaye Library"
-    credit: ""
-  - id: "Seal_3"
-    src: figures/Seal_3.png
-    caption: ""
-    credit: ""
+  - id: "7_1"
+    src: figures/7_1.png
+    caption: "Pedder Street in Hong Kong's central district bustling with pedestrians and cars, ca. 1925."
 
-  - id: "Zhejiang_library"
-    src: figures/Zhejiang_library.png
-    caption: "原件藏浙江圖書館 Letter from Liu Chenggan to the Zhejiang Library, dated 19 November 1951<br> (original in the Zhejiang Library)"
-    credit: ""
+  - id: "7_2"
+    src: figures/7_2.png
+    caption: "Artist's rendering of Wynne-Jones in the Central Magistracy. He is waving a cane at the boys and girls charged with hawking newspapers without a licence."
 
-  - id: "Jiayetang_gates"
-    src: figures/Jiayetang_gates.png
-    caption: "Entrance gates to the Jiayetang Library"
-    credit: ""
+  - id: "8_splash1"
+    src: figures/8_Ehall.png
+    caption: ""
+
+  - id: "8_1"
+    src: figures/8_1.png
+    caption: "Proposed plan for Victoria Gaol, ca. 1858. The initial scheme envisaged two radial blocks, complete with a central 'Governor's House', inspection halls and yards for excercise. Only the southern half of the Gaol, shown at the top of this plan, was built."
+
+  - id: "8_2"
+    src: figures/8_2.png
+    caption: "When first constructed, the radial-plan Victoria Goal had a Chinese-style pitched roof covered with overlapping tiles. After the war this was replaced by a flat concrete roof."
+
+  - id: "8_3"
+    src: figures/8_3.png
+    caption: "Diagram showing sight lines from the houses on Chancery Lane down to the Gaol yard."
+
+  - id: "9_1"
+    src: figures/9_1.png
+    caption: "At one time the Gaol had a bulding that was constructed specifically to house a tread wheel. The tread wheel or treadmill was a device for imposing hard labour on prisoners."
+
+  - id: "9_2"
+    src: figures/9_2.png
+    caption: "Under the watchful eye of a warder, prisoners are punished with the shot-drill."
+
+  - id: "10_1"
+    src: figures/10_1.png
+    caption: "Artist's rendering of William Adsetts transporting the trunk containing Gerturde Dayton's body to the steamship *Monteagle*."
+
+  - id: "10_2"
+    src: figures/10_2.png
+    caption: "Ai Wu in Shanghai, 1931."

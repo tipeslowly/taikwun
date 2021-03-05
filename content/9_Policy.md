@@ -7,11 +7,12 @@ type: essay
 class: page-one
 abstract:
 ---
-**Hard Labour**
-
-Members of the Gaol Committee of 1877 were emphatic that the life of prisoners, and of Chinese prisoners especially, should be made ‘as distasteful as it can possibly be made, consistently with reason and humanity, by hard labour, hard fare, and strict physical discipline’.[^1] ‘Hard fare’ had a double purpose, both carrot and stick, its award transmuted into an incentive for good behaviour, its withholding or reduction inflicted as a punishment. Achieving the balance between the minimum amount of food and the maximum amount of labour was less easy, however, since prisoners seemed often to gain rather than lose weight during their term. It appeared to have occurred to only a few officials that many of them would have come off the streets as ‘weak and brokendown’ men[^2] who were probably already malnourished, emaciated and in ill-health.
+Members of the Gaol Committee of 1877 were emphatic that the life of prisoners, and of Chinese prisoners especially, should be made ‘as distasteful as it can possibly be made, consistently with reason and humanity, by hard labour, hard fare, and strict physical discipline’.[^1] ‘Hard fare’ had a double purpose, both carrot and stick, its award transmuted into an incentive for good behaviour, its withholding or reduction inflicted as a punishment. Achieving the balance between the minimum amount of food and the maximum amount of labour was less easy, however, since prisoners seemed often to gain rather than lose weight during their term. It appeared to have occurred to only a few officials that many of them would have come off the streets as ‘weak and broken-down’ men[^2] who were probably already malnourished, emaciated and in ill-health.
 
 But if the effect of penal dietaries proved nebulous, there were other, more measurable physical penalties. These consisted of light chores such as gaol cleaning, ‘scavengering’, cooking, washing, and mat-making. Hard-labour discipline included the crank, shot-drill, oakum-picking with stone-carrying as an alternative, and stone-breaking and dressing. Hard-labour sentences were imposed either by order of the courts, or for breaches of gaol regulations. Prisoners generally worked between six and ten hours a day, typically from 7 a.m. to 4.30 p.m., with an hour off for dinner. They were excused work on Saturday afternoons, which were devoted to ablution, as well as on Sundays.
+
+{{< q-figure id="9_1" >}}
+
 
 **The Crank, the Shot-Drill and Stone-Carrying**
 
@@ -29,7 +30,7 @@ in doing so, he found that most of the cranks were very much under weight—
 under test—and a large proportion of them had no weight at all . . . the result of
 that was that all the cranks being up to the proper test, the prisoners, as I believed,
 entered into a conspiracy to refuse to do the labour, and the result was a large
-increase in the number of floggings.20
+increase in the number of floggings.[^6]
 
 Well established in 19th-century England, the crank was considered by penologists to be doubly fitting as a punishment: first, it was installed inside a cell and could therefore be worked by prisoners alone; secondly, if set at the right weight or pressure, the labour it extracted was systematic and measurable. In Hong Kong, for instance, men sentenced to penal labour in 1873 had to complete 14,000 revolutions a day, adjusted to ‘not exceeding 15,300’ turns in 1876, and further to 12,500 at a 12-pound pressure in subsequent years.
 
@@ -47,13 +48,15 @@ one has made and the number of days that he has to work. It is hard work
 and it is a pity that so much motive power is not employed in something
 useful.[^7]
 
+{{< q-figure id="9_2" >}}
+
 The shot-drill was equally unproductive: in fact it was impossible to imagine anything more ingeniously useless, an English social commentator remarked in 1862. But Lord Carnarvon and his 1863 committee on gaol discipline approved of this very uselessness, maintaining that the prisoner’s awareness of the futility of his exertions would add insult to injury and reinforce the punishment. Rizal also observed the shot-drill exercise in action: at a warder’s command, the prisoner had to bend and lift a heavy ‘shot’ or cannonball with both hands, take a few paces, and then put it down. Shots were 18, 24 or 32 pounds in weight. The prisoner then repeated the action—again and again for four hours, in spells of half an hour at a time, with stone-carrying or oakum-picking during the intervals. The stone-carrying was a local version of an endurance test: it involved the prisoner walking around the yard with two large pieces of granite (total load of about 45 pounds) suspended from a bamboo pole placed across the shoulders.
 
 #### Notes
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:Report of the Gaol committee, *Hongkong Government Gazette*, 10 March 1877, 116.
+[^2]:Colonia Surgeon's Report for 1878, *Hongkong Government Gazette*, 9 July 1879, 405.
+[^3]:MacDonnell to Buckingham, 29 May 1868, CO 129/130, 560.
+[^4]:Report of the Gaol Committee, *Hongkong Government Gazette*, 10 March 1877, 119.
+[^5]:Annual Report of the Superintendent of Victoria Gaol for 1887, *Hongkong Government Gazette*, 31 March 1888, 338.
+[^6]:Report of the Committee Appointed to Enquire into the Question of Flogging in Victoria Gaol, *Sessional Papers*, 1896, 60.
+[^7]:Rizal, 'A Visit to Victoria Gaol' (trans. Encarnacion Alzona), in *Miscellaneous Writings of Dr José Rizal*, 145–48.
