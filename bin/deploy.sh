@@ -20,6 +20,7 @@ echo "Generating site"
 # hugo --config=config.yml,config/environments/github.yml
 quire site --env=github
 
-echo "Updating gh-pages branch"
+echo "Updating gh-pages branch (deleting first to avoid conflict)"
+git push origin --delete gh-pages
 git add -f $BUILD_DIR && git commit -m "Automated deploy at $(date)."
 git subtree push --prefix $BUILD_DIR origin gh-pages
