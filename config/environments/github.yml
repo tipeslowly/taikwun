@@ -11,5 +11,6 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://tipeslowly.github.io/taikwun/" # Needs trailing slash
+baseURL: "https://digitalpub.umag.hku.hk/taikwun/" # Needs trailing slash
 canonifyURLs: true
+relativeURLs: true

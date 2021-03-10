@@ -17,6 +17,24 @@
     padding-bottom: 270px !important;
 }
 
+/* Fix bug where footnote gets first letter enlarged */
+.quire-splash .quire-page__content p:first-child:first-letter {
+    font-size: inherit;
+    float: inherit;
+    margin-top: inherit;
+    margin-left: inherit;
+    padding-right: inherit;
+    line-height: inherit;
+}
+.quire-splash .quire-page__content .content > p:first-child:first-letter {
+    font-size: 9em;
+    float: left;
+    margin-top: 0;
+    margin-left: -0.09em;
+    padding-right: 0.025em;
+    line-height: 0.85em;
+}
+
 .quire:not(.no-js) .quire__secondary.is-expanded {
     width: calc(372px - 2em);
 }
