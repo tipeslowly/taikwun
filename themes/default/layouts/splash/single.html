@@ -11,6 +11,7 @@
   {{ end -}}
   {{- if .Params.image -}}
   {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
+  {{- $imgCoverPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Site.Data.publication.promo_image -}}
     <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero {{ if .Content }}{{ else }}quire-page__header--full-height{{ end }} {{ if .Params.image }}hero-image{{ end }}" style="background-image: url('{{ $imgPath | relURL }}');">
       <div class="hero-body">
         {{/* Page Title */}}
@@ -43,7 +44,7 @@
       </div>
     </section>
   {{- end -}}
-  
+
   {{ if .Content }}
     <section id="content" class="section quire-page__content">
       {{ if .Params.abstract }}
@@ -62,6 +63,6 @@
     {{ partial "footer-buttons.html" . }}
     </div>
   {{ end }}
-  
+
 </article>
 {{ end }}

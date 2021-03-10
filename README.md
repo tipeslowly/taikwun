@@ -2,8 +2,7 @@
 _A Digital Publishing Framework from Getty Publications_
 
 This is the starter template for
-[Quire](https://www.getty.edu/publications/digital/platforms-tools.html), an
-open-source multi-format publishing framework built on
+[Quire](https://www.getty.edu/publications/digital/platforms-tools.html), a multi-format publishing framework built on
 [Hugo](https://github.com/gohugoio/hugo). Quire consists of:
 
 - [quire-cli](https://github.com/gettypubs/quire-cli)
@@ -33,12 +32,12 @@ accompanying theme into a single repository so you can keep track of your work
 in your own Git repository. You only need to follow these steps if you *are not*
 using the `quire` command-line tool (it will take care of that for you).
 
-1. Clone the kit and its theme submodule: 
+1. Clone the kit and its theme submodule:
    `git clone --recursive https://github.com/gettypubs/quire-starter.git`
-2. Change into the kit directory and remove the submodule from the repo's tree: 
+2. Change into the kit directory and remove the submodule from the repo's tree:
    `git rm --cached themes/quire-starter-theme`
 3. Remove the `.gitmodules` file: `rm .gitmodules`
-4. Add the contents of the theme directory to the repo and commit them: 
+4. Add the contents of the theme directory to the repo and commit them:
    `git add themes/quire-starter-theme`
 5. Make sure you have a new remote set up to push changes to as you make them.
 
@@ -48,7 +47,7 @@ preview or build your project the same as you would in any other Hugo website
 files however, you will also need to run Webpack in the
 `themes/quire-starter-theme` subfolder (make sure to install the necessary
 dependencies there first!). To simulate the `quire preview` experience you will
-need to run `hugo server` in the project root and 
+need to run `hugo server` in the project root and
 `./node_modules/.bin/webpack --watch` in the `themes/quire-starter-theme`
 subfolder.
 
@@ -57,7 +56,7 @@ subfolder.
 At some point you will probably want to publish what you have built so that it
 can be shared with the wider world. Quire currently supports two methods of
 deployment: Netlify and Github Pages. Both of these services are fast, free, and
-fairly easy to setup. 
+fairly easy to setup.
 
 ### Deploying to Netlify
 
@@ -88,7 +87,7 @@ will need to manually deploy the site by running a script provided in
 
 In `config.build.yml`, comment out the Netlify lines and uncomment the GH Pages
 settings. Your `baseURL` will need to be in the format that GitHub Pages expects
-(https://yourusername.github.io/projectname for most sites). Setting 
+(https://yourusername.github.io/projectname for most sites). Setting
 `canonifyURLs: true` will help to avoid broken links.
 
 Finally, you will need to remove the `public/` directory from your `.gitignore`
@@ -107,6 +106,6 @@ Any web server capable of hosting static files will work (S3, FTP server, etc.),
 but you will likely need to customize the values in `config.build.yml` to suit
 your needs.
 
+### License
 
-# taikwun
-# taikwun
+Copyright (c) 2021, J Paul Getty Trust.

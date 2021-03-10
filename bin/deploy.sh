@@ -16,11 +16,14 @@ echo "Deleting old publication"
 rm -rf $BUILD_DIR
 mkdir $BUILD_DIR
 
+git subtree pull --prefix $BUILD_DIR origin gh-pages
+
 echo "Generating site"
 # hugo --config=config.yml,config/environments/github.yml
 quire site --env=github
 
 echo "Updating gh-pages branch (deleting first to avoid conflict)"
-git push origin --delete gh-pages
+#git push origin --delete gh-pages
 git add -f $BUILD_DIR && git commit -m "Automated deploy at $(date)."
-git subtree push --prefix $BUILD_DIR origin gh-pages
+#git subtree push --prefix $BUILD_DIR origin gh-pages
+git push origin `git subtree split --prefix $BUILD_DIR origin`:gh-pages --force
