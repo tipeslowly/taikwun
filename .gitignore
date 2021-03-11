@@ -7,3 +7,4 @@ site
 node_modules
 .tmp
 themes/umag-quire-theme/
+themes/default/
