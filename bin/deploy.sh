@@ -16,7 +16,7 @@ echo "Deleting old publication"
 rm -rf $BUILD_DIR
 mkdir $BUILD_DIR
 
-git subtree pull --prefix $BUILD_DIR origin gh-pages
+#git subtree pull --prefix $BUILD_DIR origin gh-pages
 
 echo "Generating site"
 # hugo --config=config.yml,config/environments/github.yml
