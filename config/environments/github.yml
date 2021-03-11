@@ -13,4 +13,3 @@
 
 baseURL: "https://digitalpub.umag.hku.hk/taikwun/" # Needs trailing slash
 canonifyURLs: true
-relativeURLs: false
