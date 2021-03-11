@@ -25,5 +25,5 @@ quire site --env=github
 echo "Updating gh-pages branch (deleting first to avoid conflict)"
 #git push origin --delete gh-pages
 git add -f $BUILD_DIR && git commit -m "Automated deploy at $(date)."
-#git subtree push --prefix $BUILD_DIR origin gh-pages
-git push origin `git subtree split --prefix $BUILD_DIR origin`:gh-pages --force
+git subtree push --prefix $BUILD_DIR origin gh-pages
+#git push origin `git subtree split --prefix $BUILD_DIR origin`:gh-pages --force
